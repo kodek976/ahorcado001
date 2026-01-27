@@ -10,7 +10,7 @@ public class Ahoarcado {
     public static void main(String[] args) {
         Scanner teclado = new Scanner(System.in);
         int fallos = 0;
-        String palabraAdivinar = "Chirimoya";
+        String palabraAdivinar = "Chiripoya";
         String[] palabraJuego=new String[palabraAdivinar.length()];
         for (int i = 0; i < palabraJuego.length; i++) {
             palabraJuego[i]="-";
