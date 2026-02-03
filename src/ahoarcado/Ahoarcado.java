@@ -31,7 +31,7 @@ public class Ahoarcado {
             }
             System.out.println(Arrays.toString(palabraJuego));
         }else{
-            System.out.println("No está la letra");
+            System.out.println("No está");
         }
     }
     }
